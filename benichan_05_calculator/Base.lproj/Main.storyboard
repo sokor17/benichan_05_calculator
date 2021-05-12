@@ -161,19 +161,8 @@
                                     </stackView>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="trailing" secondItem="WNf-Vt-aep" secondAttribute="trailing" constant="10" id="64c-TA-5Ng"/>
-                                    <constraint firstItem="smE-QI-4OO" firstAttribute="centerY" secondItem="TM6-vI-Tbe" secondAttribute="centerY" constant="100" id="AvL-wY-rzY"/>
-                                    <constraint firstItem="smE-QI-4OO" firstAttribute="leading" secondItem="TM6-vI-Tbe" secondAttribute="leading" constant="10" id="DNk-c8-0Bv"/>
-                                    <constraint firstItem="JLJ-jP-Ljg" firstAttribute="centerY" secondItem="TM6-vI-Tbe" secondAttribute="centerY" id="DO8-wX-mnh"/>
-                                    <constraint firstAttribute="trailing" secondItem="smE-QI-4OO" secondAttribute="trailing" constant="10" id="EBz-WK-jaq"/>
-                                    <constraint firstItem="WNf-Vt-aep" firstAttribute="top" secondItem="JLJ-jP-Ljg" secondAttribute="bottom" constant="5" id="O8C-oj-S2I"/>
-                                    <constraint firstItem="JLJ-jP-Ljg" firstAttribute="top" secondItem="smE-QI-4OO" secondAttribute="bottom" constant="5" id="P87-rm-EOA"/>
-                                    <constraint firstItem="WNf-Vt-aep" firstAttribute="centerY" secondItem="TM6-vI-Tbe" secondAttribute="centerY" id="VSs-4v-rVj"/>
-                                    <constraint firstItem="smE-QI-4OO" firstAttribute="centerY" secondItem="TM6-vI-Tbe" secondAttribute="centerY" constant="20" id="ZVi-ct-seF"/>
-                                    <constraint firstItem="JLJ-jP-Ljg" firstAttribute="leading" secondItem="TM6-vI-Tbe" secondAttribute="leading" constant="10" id="d14-3J-9IA"/>
-                                    <constraint firstItem="smE-QI-4OO" firstAttribute="centerX" secondItem="TM6-vI-Tbe" secondAttribute="centerX" id="jWX-nD-Hw4"/>
-                                    <constraint firstAttribute="trailing" secondItem="JLJ-jP-Ljg" secondAttribute="trailing" constant="10" id="sMV-zk-f7n"/>
-                                    <constraint firstItem="WNf-Vt-aep" firstAttribute="leading" secondItem="TM6-vI-Tbe" secondAttribute="leading" constant="10" id="v8e-IU-KvV"/>
+                                    <constraint firstItem="smE-QI-4OO" firstAttribute="leading" secondItem="TM6-vI-Tbe" secondAttribute="leading" constant="3" id="X5w-El-o2S"/>
+                                    <constraint firstAttribute="trailing" secondItem="smE-QI-4OO" secondAttribute="trailing" constant="3" id="ukz-B1-viC"/>
                                 </constraints>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5RK-YI-0JY">

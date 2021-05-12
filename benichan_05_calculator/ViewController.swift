@@ -105,6 +105,7 @@ class ViewController: UIViewController {
         number2 = 0
         number3 = 0
         ope = 0
+        label.text = String(number1)
     }
 
     override func viewDidLoad() {
